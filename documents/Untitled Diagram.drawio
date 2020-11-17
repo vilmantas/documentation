@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T18:12:17.305Z" agent="5.0 (Windows)" etag="mGpj_TJ8KJkeIEgDSyPS" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T18:13:30.443Z" agent="5.0 (Windows)" etag="hEclQqykEyxfiR8h7IHN" version="13.9.9" type="github">
   <diagram id="ECBcf4AF0JtO1z4K7DSX" name="Page-1">
     <mxGraphModel dx="2229" dy="759" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -163,10 +163,10 @@
         <mxCell id="vq10Wp0aYiQOO_JATJNM-125" value="- Create UpdateChangesSource" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-118">
           <mxGeometry y="170" width="630" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="vq10Wp0aYiQOO_JATJNM-129" value="- Set up syncrhonization metadata table" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;fontStyle=1" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-118">
+        <mxCell id="vq10Wp0aYiQOO_JATJNM-129" value="- Set up syncrhonization metadata table in REAnalysisPortal" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;fontStyle=1" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-118">
           <mxGeometry y="208" width="630" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="vq10Wp0aYiQOO_JATJNM-130" value="- Set up triggers to track changes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;fontStyle=1" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-118">
+        <mxCell id="vq10Wp0aYiQOO_JATJNM-130" value="- Set up triggers to track changes in REQC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;fontStyle=1" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-118">
           <mxGeometry y="246" width="630" height="38" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-162" value="Analysis.Updates.Synchronization.Persistence" style="shape=folder;fontStyle=1;tabWidth=462;tabHeight=42;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=29;strokeColor=#82b366;fillColor=none;fontFamily=Lucida Console;fontSize=14;recursiveResize=0;" vertex="1" parent="1">
