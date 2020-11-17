@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T17:07:13.718Z" agent="5.0 (Windows)" etag="q_U7my-HjHiILg_lrveI" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T17:16:25.836Z" agent="5.0 (Windows)" etag="FMAVXOrWBOhtp3WzH5J1" version="13.9.9" type="github">
   <diagram id="ECBcf4AF0JtO1z4K7DSX" name="Page-1">
-    <mxGraphModel dx="2476" dy="893" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2229" dy="759" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,52 +204,55 @@
           <mxGeometry y="98" width="413.9130434782608" height="48" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-217" value="Fetch Changes Job Triggering" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;align=center;width=308;height=28;container=1;" vertex="1" parent="1">
-          <mxGeometry x="406" y="2618" width="818" height="490" as="geometry" />
+          <mxGeometry x="250" y="2548" width="1204" height="490" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-216" value="Analysis.Updates.Synchronization" style="text;align=center;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#666666;fillColor=#f5f5f5;fontFamily=Lucida Console;fontSize=14;html=1;fontColor=#333333;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-217">
-          <mxGeometry x="324" y="98" width="448" height="364" as="geometry" />
+          <mxGeometry x="476.88997555012224" y="98" width="659.4034229828852" height="364" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-215" value="&lt;div align=&quot;center&quot;&gt;Quartz.NET&lt;/div&gt;" style="text;align=center;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;fontFamily=Lucida Console;fontSize=14;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-217">
-          <mxGeometry x="44" y="98" width="266" height="364" as="geometry" />
+          <mxGeometry x="64.76283618581908" y="98" width="391.52078239608807" height="364" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-199" value="Scheduler" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-217">
-          <mxGeometry x="58" y="154" width="100" height="308" as="geometry" />
+          <mxGeometry x="85.36919315403424" y="154" width="147.18826405867972" height="308" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-203" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-199">
-          <mxGeometry x="45" y="56" width="10" height="28" as="geometry" />
+          <mxGeometry x="66.23471882640587" y="56" width="14.718826405867972" height="84" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-200" value="JobRunner" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-217">
-          <mxGeometry x="196" y="154" width="100" height="308" as="geometry" />
+          <mxGeometry x="288.48899755501225" y="154" width="147.18826405867972" height="308" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-205" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-200">
-          <mxGeometry x="45" y="70" width="10" height="70" as="geometry" />
+          <mxGeometry x="66.23471882640587" y="70" width="14.718826405867972" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-201" value="FetchChangesJob" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-217">
-          <mxGeometry x="338" y="154" width="140" height="308" as="geometry" />
+          <mxGeometry x="497.49633251833745" y="154" width="206.06356968215158" height="308" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-209" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-201">
-          <mxGeometry x="65" y="126" width="10" height="80" as="geometry" />
+          <mxGeometry x="95.67237163814181" y="126" width="14.718826405867972" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-202" value="MessageEmitter" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-217">
-          <mxGeometry x="562" y="154" width="196" height="308" as="geometry" />
+          <mxGeometry x="827.19804400978" y="154" width="288.48899755501225" height="308" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-211" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-202">
-          <mxGeometry x="93" y="196" width="10" height="80" as="geometry" />
+          <mxGeometry x="136.88508557457214" y="196" width="14.718826405867972" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-207" value="TriggerJob" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0.025;strokeColor=#182E3E;fillColor=#dae8fc;fontFamily=Lucida Console;fontSize=14;fontColor=#1A1A1A;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" target="vq10Wp0aYiQOO_JATJNM-205" parent="vq10Wp0aYiQOO_JATJNM-217" source="vq10Wp0aYiQOO_JATJNM-203">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="142" y="226" as="sourcePoint" />
+            <mxPoint x="209.00733496332523" y="226" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-212" value="EmitFetchChangesCommand" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;strokeColor=#182E3E;fillColor=#dae8fc;fontFamily=Lucida Console;fontSize=14;fontColor=#1A1A1A;" edge="1" target="vq10Wp0aYiQOO_JATJNM-211" parent="vq10Wp0aYiQOO_JATJNM-217" source="vq10Wp0aYiQOO_JATJNM-201">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="308" as="sourcePoint" />
+            <mxPoint x="662.3471882640587" y="308" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-210" value="RunJob" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;strokeColor=#182E3E;fillColor=#dae8fc;fontFamily=Lucida Console;fontSize=14;fontColor=#1A1A1A;startFill=0;" edge="1" target="vq10Wp0aYiQOO_JATJNM-209" parent="vq10Wp0aYiQOO_JATJNM-217" source="vq10Wp0aYiQOO_JATJNM-205">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="280" as="sourcePoint" />
+            <mxPoint x="456.28361858190715" y="280" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vq10Wp0aYiQOO_JATJNM-220" value="while (True)" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;align=center;width=61;height=66;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-217">
+          <mxGeometry x="80.88" y="200" width="129.12" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
