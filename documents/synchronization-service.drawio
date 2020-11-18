@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T08:43:16.896Z" agent="5.0 (Windows)" etag="e6Rh58dXy6H986Y3yzgC" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T08:54:48.626Z" agent="5.0 (Windows)" etag="5RqYXh-VCa5Pmr-VG-Wj" version="13.9.9" type="github">
   <diagram id="ECBcf4AF0JtO1z4K7DSX" name="Page-1">
     <mxGraphModel dx="2483" dy="893" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -49,7 +49,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-88" value="Analysis.Updates.Synchronization" style="shape=folder;fontStyle=1;tabWidth=355;tabHeight=40;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;rounded=0;shadow=0;glass=0;sketch=1;startSize=29;strokeColor=#82b366;fontFamily=Lucida Console;fillColor=none;fontSize=14;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="630" width="2044" height="812" as="geometry" />
+          <mxGeometry x="320" y="630" width="2060" height="812" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-78" value="SyncrhonizationService" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#82b366;fontFamily=Lucida Console;html=1;fontSize=14;" parent="vq10Wp0aYiQOO_JATJNM-88" vertex="1">
           <mxGeometry x="14.57" y="76.56" width="573.43" height="307.94936708860763" as="geometry">
