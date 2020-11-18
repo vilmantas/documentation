@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T10:00:25.372Z" agent="5.0 (Windows)" etag="XQUnFlkf6TWHSdWCFnXT" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T10:01:06.661Z" agent="5.0 (Windows)" etag="hM5T5EUMG_S91rtM9V8W" version="13.9.9" type="github">
   <diagram id="ECBcf4AF0JtO1z4K7DSX" name="Page-1">
     <mxGraphModel dx="2235" dy="759" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
@@ -112,7 +112,7 @@
           <mxGeometry y="50" width="250" height="38.27848101265823" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-141" value="&lt;div&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;ISynchronizationJob&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#82b366;fontFamily=Lucida Console;html=1;fontSize=14;" parent="vq10Wp0aYiQOO_JATJNM-88" vertex="1">
-          <mxGeometry x="177.78639565734244" y="87.99780498809378" width="312" height="230" as="geometry">
+          <mxGeometry x="251.99639565734245" y="87.99780498809378" width="312" height="230" as="geometry">
             <mxRectangle x="830" y="50" width="200" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -135,13 +135,13 @@
           <mxGeometry y="200" width="312" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-112" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;ImportJob&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#82b366;fontFamily=Lucida Console;html=1;fontSize=14;" parent="vq10Wp0aYiQOO_JATJNM-88" vertex="1">
-          <mxGeometry x="14.573018131145837" y="336.7704158415841" width="174.8714759209252" height="59.174683544303804" as="geometry" />
+          <mxGeometry x="14.573018131145837" y="258.5304158415841" width="174.8714759209252" height="59.174683544303804" as="geometry" />
         </mxCell>
         <mxCell id="ia7Ri7Av3f0508WHwBtR-33" value="+ /...." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-112">
           <mxGeometry y="26" width="174.8714759209252" height="33.174683544303804" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-116" value="SyncChangesJob" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#82b366;fontFamily=Lucida Console;html=1;fontSize=14;" parent="vq10Wp0aYiQOO_JATJNM-88" vertex="1">
-          <mxGeometry x="409.00534715278815" y="336.7704158415841" width="174.8714759209252" height="59.174683544303804" as="geometry" />
+          <mxGeometry x="615.9953471527881" y="258.5304158415841" width="174.8714759209252" height="59.174683544303804" as="geometry" />
         </mxCell>
         <mxCell id="ia7Ri7Av3f0508WHwBtR-36" value="+ /...." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" vertex="1" parent="vq10Wp0aYiQOO_JATJNM-116">
           <mxGeometry y="26" width="174.8714759209252" height="33.174683544303804" as="geometry" />
