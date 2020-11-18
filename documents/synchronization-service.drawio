@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T10:11:54.160Z" agent="5.0 (Windows)" etag="0NchG5a6nLeyebZYjtWX" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T10:47:40.700Z" agent="5.0 (Windows)" etag="iChLwp2-dNW5uyTnP7in" version="13.9.9" type="github">
   <diagram id="ECBcf4AF0JtO1z4K7DSX" name="Page-1">
-    <mxGraphModel dx="2177" dy="661" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
+    <mxGraphModel dx="3141" dy="1133" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vq10Wp0aYiQOO_JATJNM-217" value="Fetch Changes Job Triggering" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=26;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;align=center;width=308;height=28;container=1;recursiveResize=0;" parent="1" vertex="1">
+        <mxCell id="vq10Wp0aYiQOO_JATJNM-217" value="Fetch Changes Job Triggering" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=1;startSize=50;strokeColor=#82b366;fillColor=#ffffff;fontFamily=Lucida Console;fontSize=14;align=center;width=308;height=28;container=1;recursiveResize=0;fontStyle=1;swimlaneFillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="320" y="1834" width="1318" height="490" as="geometry">
             <mxRectangle x="250" y="2548" width="280" height="28" as="alternateBounds" />
           </mxGeometry>
