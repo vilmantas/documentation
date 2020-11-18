@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T08:04:18.031Z" agent="5.0 (Windows)" etag="VrmyOtt1StPjgeDuzqmv" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T08:06:12.113Z" agent="5.0 (Windows)" etag="-NoYkOrxUe7ytpwpuicf" version="13.9.9" type="github">
   <diagram id="ECBcf4AF0JtO1z4K7DSX" name="Page-1">
-    <mxGraphModel dx="3174" dy="1265" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
+    <mxGraphModel dx="1798" dy="523" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,18 +28,21 @@
           <mxGeometry x="-10" y="650" width="260" height="440" as="geometry" />
         </mxCell>
         <mxCell id="-ayLkiG4syY7ho0zuzDr-19" value="Scheduler" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#82b366;fillColor=none;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="10" y="710" width="220" height="90" as="geometry" />
+          <mxGeometry x="10" y="710" width="220" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="-ayLkiG4syY7ho0zuzDr-21" value="+ RegisterJob(schedule, job)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" parent="-ayLkiG4syY7ho0zuzDr-19" vertex="1">
+        <mxCell id="ia7Ri7Av3f0508WHwBtR-4" value="+ RegisterJob(schedule, job)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" vertex="1" parent="-ayLkiG4syY7ho0zuzDr-19">
           <mxGeometry y="29" width="220" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="vq10Wp0aYiQOO_JATJNM-24" value="+ ...." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" parent="-ayLkiG4syY7ho0zuzDr-19" vertex="1">
+        <mxCell id="vq10Wp0aYiQOO_JATJNM-24" value="+ TriggerJob(job)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" parent="-ayLkiG4syY7ho0zuzDr-19" vertex="1">
           <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ayLkiG4syY7ho0zuzDr-21" value="+ ...." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" parent="-ayLkiG4syY7ho0zuzDr-19" vertex="1">
+          <mxGeometry y="90" width="220" height="31" as="geometry" />
         </mxCell>
         <mxCell id="-ayLkiG4syY7ho0zuzDr-31" value="JobRunner" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#82b366;fillColor=none;fontFamily=Lucida Console;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="10" y="900" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-ayLkiG4syY7ho0zuzDr-32" value="+ DoWork(Job job)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" parent="-ayLkiG4syY7ho0zuzDr-31" vertex="1">
+        <mxCell id="-ayLkiG4syY7ho0zuzDr-32" value="+ RunJob(Job job)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" parent="-ayLkiG4syY7ho0zuzDr-31" vertex="1">
           <mxGeometry y="29" width="140" height="31" as="geometry" />
         </mxCell>
         <mxCell id="vq10Wp0aYiQOO_JATJNM-25" value="+ ..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Courier New;fontSize=14;" parent="-ayLkiG4syY7ho0zuzDr-31" vertex="1">
